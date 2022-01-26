@@ -1,0 +1,9 @@
+.header-image {
+  background-image: url(../../public/assets/images/header-bg.jpg);
+}
+
+.container-testimonial {
+  position: relative;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
